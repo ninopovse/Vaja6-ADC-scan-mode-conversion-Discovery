@@ -14,3 +14,10 @@ l) Dolžina podatka pretvorbe bo 1Byte, zato ustrezno popravite izbirno polje Da
 
 
 # Komentar
+
+Z vajo sva imela težave. Prišla sva do 5. naloge v STM Studio.
+
+Rešitve za odpravo težav:
+- Uporaba druge plošče;
+- Uporaba drugih pinov;
+
