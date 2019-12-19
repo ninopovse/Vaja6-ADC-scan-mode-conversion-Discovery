@@ -12,6 +12,8 @@ k) Čas vzorčenja Sampling time izberite 92.5 cikla. Koliko je čas vzorčenja 
 
 l) Dolžina podatka pretvorbe bo 1Byte, zato ustrezno popravite izbirno polje Data Width: Byte 
 
+e) Kaj pomeni kratica DMA? Direct Memory Access.
+
 
 # Komentar
 
